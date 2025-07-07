@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathaniel LaPorte-Marques! </h1>
+<h1>Hi, I'm Nathaniel! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
