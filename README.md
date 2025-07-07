@@ -4,6 +4,10 @@
 
   - [Active Dirtectory Setup & Hardening](https://github.com/nathaniel-2003)
 
+<h2> Certifications</h2> 
+
+- [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx)
+- [Google Cybersecurity Professional]  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -13,9 +17,6 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [linkedin]: https://linkedin.com/in/nlmarques
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
