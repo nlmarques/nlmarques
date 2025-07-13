@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathaniel a <a href="https://linkedin.com/in/nlmarques">Cybersecurity Professional</a>!</h1>
+<h1>Hi, I'm Nathaniel!</h1>
 
 I'm an early-career cybersecurity professional with nearly 2 years of hands-on IT and security training, focused on system hardening, vulnerability management, and security monitoring. I’ve recently worked with tools like Tenable Nessus, Microsoft Sentinel, and Splunk to identify threats and improve visibility across Windows and Linux environments.
 
