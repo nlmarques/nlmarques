@@ -5,8 +5,6 @@ I'm an early-career cybersecurity professional with nearly 2 years of hands-on I
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
 <h2>👨‍💻 My Cybersecurity Projects</h2>
-<h3>Microsoft Azure:</h3>
-
 
 *(Labs & walkthroughs coming soon!)*
 
