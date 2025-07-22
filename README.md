@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathaniel!</h1>
 
-I’m an early-career information technology support and cybersecurity professional with nearly 2 years of simulated hands-on IT and security training, focused on system hardening, vulnerability management, risk management, and security monitoring. I’ve recently worked with tools like Tenable Nessus and Microsoft Sentinel to identify threats and improve visibility across Windows and Linux environments.
+I’m an early-career information technology support and cybersecurity professional with nearly 2 years of simulated hands-on IT and security training, focused on system hardening, vulnerability management, risk management, and security monitoring. I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on projects. Whether it’s vulnerability management, threat detection, or building secure environments, these labs reflect my commitment to staying sharp in an ever-evolving field. Feel free to explore — each project showcases the practical skills I’m building to strengthen security operations and protect digital assets.
 
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
