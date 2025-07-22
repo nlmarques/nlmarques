@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathaniel!</h1>
 
-I'm an early-career cybersecurity professional with nearly 2 years of hands-on IT and security training, focused on system hardening, vulnerability management, and security monitoring. I’ve recently worked with tools like Tenable Nessus, Microsoft Sentinel, and Splunk to identify threats and improve visibility across Windows and Linux environments.
+I'm an early-career information technology support and cybersecurity professional with nearly 2 years of simulated hands-on IT and security training, focused on system hardening, vulnerability management, risk management, and security monitoring. I’ve recently worked with tools like Tenable Nessus and Microsoft Sentinel to identify threats and improve visibility across Windows and Linux environments.
 
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
@@ -11,7 +11,7 @@ I'm an early-career cybersecurity professional with nearly 2 years of hands-on I
 
 ## 🎓 Education:
 
-🏅 B.S. Cybersecurity and Information Assurance — Western Governors University (Expected Fall 2026) 
+🏅 B.S. Cybersecurity and Information Assurance — Western Governors University (Expected 2026) 
 
 🏅 A.S. Business Administration — Mt. San Jacinto College  
 
