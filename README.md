@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathaniel!</h1>
 
-I'm an early-career information technology support and cybersecurity professional with nearly 2 years of simulated hands-on IT and security training, focused on system hardening, vulnerability management, risk management, and security monitoring. I’ve recently worked with tools like Tenable Nessus and Microsoft Sentinel to identify threats and improve visibility across Windows and Linux environments.
+I’m an early-career information technology support and cybersecurity professional with nearly 2 years of simulated hands-on IT and security training, focused on system hardening, vulnerability management, risk management, and security monitoring. I’ve recently worked with tools like Tenable Nessus and Microsoft Sentinel to identify threats and improve visibility across Windows and Linux environments.
 
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
@@ -25,7 +25,7 @@ I'm an early-career information technology support and cybersecurity professiona
   - [CompTIA Security+](https://www.credly.com/badges/9fc3f44d-e61c-49ed-89d4-7c5b8aa96e7a/public_url)
   - [Coursera Google Cybersecurity](https://coursera.org/share/8a28bf4991ef7eb348a6c47a5206e205)
 
-## 📫 Let's Connect:
+## 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/nlmarques)
 - 🧠 [TryHackMe](https://tryhackme.com/p/laporte) *(optional if you have it)*
 
