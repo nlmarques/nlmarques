@@ -4,9 +4,9 @@ I’m an early-career information technology support and cybersecurity professio
 
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
-<h2>👨‍💻 My Cybersecurity Projects</h2>
+<h2>👨‍💻 Vulnerability Management Projects </h2>
 
-*(Labs & walkthroughs coming soon!)*
+
 
 
 ## 🎓 Education:
