@@ -6,7 +6,7 @@ I’m an early-career information technology support and cybersecurity professio
 
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/nlmarques/vulnerability-management-program)**
-- **[Automatic Vulnerability Remediations](https://github.com/nlmarques/automatic-vulnerability-remediation)**
+- **[Vulnerability Remediations Using Scripts](https://github.com/nlmarques/automatic-vulnerability-remediation)**
 
 
 
