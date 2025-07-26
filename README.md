@@ -14,6 +14,8 @@ I’m an early-career information technology support and cybersecurity professio
 
 🏅 B.S. Cybersecurity and Information Assurance — Western Governors University (Expected 2026) 
 
+🏅 A.S. Business Administration, Science and Economics — Mt San Jacinto College  
+
 ## 📜  Certfications
 
   - [CompTIA Security+](https://www.credly.com/badges/9fc3f44d-e61c-49ed-89d4-7c5b8aa96e7a/public_url)
