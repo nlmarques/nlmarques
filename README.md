@@ -5,7 +5,7 @@ I'm an early-career information technology support and cybersecurity professiona
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
 ## ⚠️ Vulnerability Management Project
-- **[Vulnerability Management Implementation](https://github.com/nlmarques/vulnerability-management-program)**
+- **[Vulnerability Management using Tenable Nessus](https://github.com/nlmarques/vulnerability-management-program)**
 
 
 ## 🎓 Education:
