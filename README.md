@@ -18,7 +18,7 @@ I’m an early-career information technology support and cybersecurity professio
 
 ## 📜  Certfications
 
-  - [CompTIA Security+](https://www.credly.com/badges/9fc3f44d-e61c-49ed-89d4-7c5b8aa96e7a/public_url)
+  - [CompTIA Security+ CE](https://www.credly.com/badges/9fc3f44d-e61c-49ed-89d4-7c5b8aa96e7a/public_url)
   - [Coursera Google Cybersecurity](https://coursera.org/share/8a28bf4991ef7eb348a6c47a5206e205)
 
 ## 📫 Connect With Me
