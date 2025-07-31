@@ -12,7 +12,7 @@ I’m an early-career information technology support and cybersecurity professio
 
 ## 🎓 Education:
 
-🏅 B.S. Cybersecurity and Information Assurance — Western Governors University (Expected 2026) 
+🏅 B.S. Cybersecurity and Information Assurance — Western Governors University (Expected 2027) 
 
 🏅 A.S. Business Administration, Science and Economics — Mt San Jacinto College  
 
