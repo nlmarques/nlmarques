@@ -4,10 +4,8 @@ I'm an early-career information technology support and cybersecurity professiona
 
 🚀 Check out my projects, follow my journey, and feel free to connect!
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Project
 - **[Vulnerability Management Program Implementation](https://github.com/nlmarques/vulnerability-management-program)**
-- **[Vulnerability Remediations Using PowerShell and BASH](https://github.com/nlmarques/automatic-vulnerability-remediation)**
-
 
 
 ## 🎓 Education:
