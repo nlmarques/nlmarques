@@ -14,8 +14,8 @@ I'm an early-career information technology support and cybersecurity professiona
 
 🏅 A.S. Business Administration, Science and Economics — Mt San Jacinto College  
 
-## 📜  Certfications
-
+## 📜  Certfications 
+  - [CompTIA A+] (In Progress)
   - [CompTIA Security+](https://www.credly.com/badges/9fc3f44d-e61c-49ed-89d4-7c5b8aa96e7a/public_url)
   - [Google Cybersecurity Professional](https://coursera.org/share/8a28bf4991ef7eb348a6c47a5206e205)
 
